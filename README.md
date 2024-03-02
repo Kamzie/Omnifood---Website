@@ -1,6 +1,6 @@
 # Omnifood project
 
-Udemy Adv Javascript - Jonas Schmedtmann
+Udemy Adv Javascript Project - Jonas Schmedtmann
 
 Netlify link below:
 
